@@ -40,3 +40,14 @@
 // } else {
 //     alert("false")
 // }
+
+// 5-Masala;
+
+// let a = prompt("a sonini kiriting");
+// let b = prompt("b sonini kiriting");
+
+// if (a % 2 === 0,b % 2 === 0 || a % 2 !== 0, b % 2 !==0) {
+//        alert("true")
+// } else {
+//     alert("false")
+// }
