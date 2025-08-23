@@ -7,3 +7,13 @@
 // } else {
 //     alert("a soni manfiy")
 // }
+
+// 2-Masala;
+
+// let a = prompt("a sonini kiriting");
+
+// if ( a % 2 ===0 ) {
+//     alert("a soni juft son")
+// } else {
+//     alert("a soni toq son")
+// }
