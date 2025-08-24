@@ -115,3 +115,6 @@ if ( ( a === b, a === c, b === c) && ( b === a   ) ) {
 // Uchta A, B, C butun sonlar berilgan. Jumlani rostlikka tekshiring: "A, B, C sonlaridan faqat bittasi musbat son".
 
 // . Uchta A, B, C butun sonlar berilgan. Jumlani rostlikka tekshiring: "A, B, C sonlardan faqat ikkitasi musbat son".
+
+// Musbat butun son berilgan. Jumlani rostlikka tekshiring: "Berilgan son ikki xonali juft son". 
+
