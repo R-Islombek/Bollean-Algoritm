@@ -105,3 +105,5 @@ if ( ( a === b, a === c, b === c) && ( b === a   ) ) {
 // Ikkita butun A va B sonlari berilgan. Jumlani rostlikka tekshiring:
 
 // Boolean4. Ikkita butun A va B sonlari berilgan. Jumlani rostlikka tekshiring: "A va B sonlari toq sonlar".
+
+//  Ikkita butun A va B sonlari berilgan. Jumlani rostlikka tekshiring: "A va B sonlarning hech bo'lmaganda bittasi toq son".
