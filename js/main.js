@@ -63,3 +63,19 @@
 // } else {
 //     alert(false)
 // }
+
+// 7-Masala;
+
+let uchxonali = prompt("soni kiriting");
+
+let a = Math.floor(son / 100);       
+let b = Math.floor((son % 100) / 10); 
+let c = son % 10;                  
+
+if (a !== b && a !== c && b !== c) {
+  console.log("Barcha raqamlar har xil");
+} else {
+  console.log("Raqamlardan ba'zilari bir xil");
+}
+
+
