@@ -90,3 +90,7 @@ if ( ( a === b, a === c, b === c) && ( b === a   ) ) {
     alert(false)
 }
 
+// 9-Masala;
+
+// Jumlani rostlikka tekshiring: "Berilgan uchta butun sonlarning hech bo'lmaganda 2 tasi bir biriga teng".
+
