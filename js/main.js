@@ -84,7 +84,7 @@ let a = prompt("a sonini kiriting");
 let b = prompt("b sonini kiriting");
 let c = prompt("c sonini kiriting");
 
-if (a === b && a !== c && b !== c || b === c && a !== b && a === c ||  c === a && b === c && a !== b ) {
+if ( ( a === b, a === c, b === c) && ( b === a   ) ) {
      alert(true)
 } else {
     alert(false)
