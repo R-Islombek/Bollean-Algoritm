@@ -94,3 +94,8 @@ if ( ( a === b, a === c, b === c) && ( b === a   ) ) {
 
 // Jumlani rostlikka tekshiring: "Berilgan uchta butun sonlarning hech bo'lmaganda 2 tasi bir biriga teng".
 
+
+
+// 10-Masala;
+
+// . Shaxmat doskasining ikkita turli (x1, y1), (x2, y2) koordinalari berilgan (1-8 oraliqda yotuvchi butun sonlar). Jumlani rostlikka tekshiring: "Farzin bir yurishda bir maydondan ikkinchisiga o'ta oladi".
