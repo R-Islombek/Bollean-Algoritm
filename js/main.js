@@ -102,3 +102,4 @@ if ( ( a === b, a === c, b === c) && ( b === a   ) ) {
 
 // Boolean1. A butun soni berilgan. Jumlani rostlikka tekshiring: "A soni juft son”.
 
+// Ikkita butun A va B sonlari berilgan. Jumlani rostlikka tekshiring:
