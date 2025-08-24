@@ -118,3 +118,4 @@ if ( ( a === b, a === c, b === c) && ( b === a   ) ) {
 
 // Musbat butun son berilgan. Jumlani rostlikka tekshiring: "Berilgan son ikki xonali juft son". 
 
+// Musbat butun son berilgan. Jumlani rostlikka tekshiring: c "Berilgan son uch xonali toq". 
