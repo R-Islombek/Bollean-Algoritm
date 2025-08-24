@@ -121,3 +121,4 @@ if ( ( a === b, a === c, b === c) && ( b === a   ) ) {
 // Musbat butun son berilgan. Jumlani rostlikka tekshiring: c "Berilgan son uch xonali toq".
 
 // Jumlani rostlikka tekshiring: "Berilgan uchta butun sonlarning hech bo'lmaganda bir jufti o'zaro qarama-qarshi".
+// Uch xonali son berilgan. Jumlani rostlikka tekshiring: “Ushbu sonning raqamlari ketama- ket o'suvchi bo'lib joylashgan".
