@@ -66,16 +66,27 @@
 
 // 7-Masala;
 
-let uchxonali = prompt("soni kiriting");
+// let uchxonali = prompt("soni kiriting");
 
-let a = Math.floor(son / 100);       
-let b = Math.floor((son % 100) / 10); 
-let c = son % 10;                  
+// let a = Math.floor(son / 100);       
+// let b = Math.floor((son % 100) / 10); 
+// let c = son % 10;                  
 
-if (a !== b && a !== c && b !== c) {
-  console.log("Barcha raqamlar har xil");
+// if (a !== b && a !== c && b !== c) {
+//   console.log("Barcha raqamlar har xil");
+// } else {
+//   console.log("Raqamlardan ba'zilari bir xil");
+// }
+
+// 8-Masala;
+
+let a = prompt("a sonini kiriting");
+let b = prompt("b sonini kiriting");
+let c = prompt("c sonini kiriting");
+
+if (a === b && a !== c && b !== c || b === c && a !== b && a === c ||  c === a && b === c && a !== b ) {
+     alert(true)
 } else {
-  console.log("Raqamlardan ba'zilari bir xil");
+    alert(false)
 }
-
 
