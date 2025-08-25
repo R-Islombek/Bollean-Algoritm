@@ -176,4 +176,8 @@
 //     console.log("false");
 // }
 
+// 8-Masala;
+
+
+// Uchta A, B, C butun sonlar berilgan. Jumlani rostlikka tekshiring: "A, B, C sonlaridan faqat bittasi musbat son".
 
