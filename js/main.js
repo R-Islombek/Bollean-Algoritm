@@ -80,7 +80,18 @@
 
 // 8-Masala;
 
-let a = prompt("a sonini kiriting")
+let a = prompt("a sonini kiriting");
 let b = prompt("b sonini kiriting");
 let c = prompt("c sonini kiriting");
+
+if ( a === b && a!== c && b === c  ) {
+    
+} else {
+    
+}
+
+
+
+
+
 
