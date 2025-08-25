@@ -105,16 +105,28 @@
 
 // 2-Masala;
 
-let a = prompt("a sonini kiriting");
-let b = prompt("b sonini kiriting");
+// let a = prompt("a sonini kiriting");
+// let b = prompt("b sonini kiriting");
 
-if (a >= 0 || b < -2 ) {
-    console.log("true");
+// if (a >= 0 || b < -2 ) {
+//     console.log("true");
     
-} else {
-    console.log("false");
-}
+// } else {
+//     console.log("false");
+// }
 
+// 3-Masala;
+
+// let a = prompt("a sonini kiriting");
+// let b = prompt("b sonini kiriting");
+// let c = prompt("c sonini kiriting");
+
+// if (a < b && b > c && a < c) {
+//     console.log("true");
+    
+// } else {
+//     console.log("false");
+// }
 
 
 
