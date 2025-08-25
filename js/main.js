@@ -80,17 +80,28 @@
 
 // 8-Masala;
 
-let a = prompt("a sonini kiriting");
-let b = prompt("b sonini kiriting");
-let c = prompt("c sonini kiriting");
+// let a = prompt("a sonini kiriting");
+// let b = prompt("b sonini kiriting");
+// let c = prompt("c sonini kiriting");
 
-if ( a === b && a!== c && b === c  ) {
+// if ( a === b && a!== c && b === c  ) {
     
-} else {
+// } else {
     
-}
+// }
+
+// Uyga vazifadan ishlayapman;
+
+// 1-Masala;
 
 
+// let a = prompt("a sonini kiriting");
+
+// if (a % 2 === 0 ) {
+//      console.log("true");
+// } else {
+//     console.log("false");
+// }
 
 
 
