@@ -139,5 +139,16 @@
 //     console.log("false");
 // }
 
+// 5-Masala;
+
+let a = prompt("a sonini kiriting");
+let b = prompt("b sonini kiriting");
+
+
+if (a % 2 !==0 && b % 2 !== 0 ) {
+    console.log("true");
+} else {
+    console.log("false");
+}
 
 
