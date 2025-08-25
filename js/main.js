@@ -153,14 +153,27 @@
 
 // 6-Masala;
 
-let a = prompt("a sonini kiriting");
-let b = prompt("b sonini kiriting");
+// let a = prompt("a sonini kiriting");
+// let b = prompt("b sonini kiriting");
 
-if (a % 2 === 0,  b % 2 !== 0 && a % 2 !== 0,  b % 2 === 0 ) {
-    console.log("true");
+// if (a % 2 === 0,  b % 2 !== 0 && a % 2 !== 0,  b % 2 === 0 ) {
+//     console.log("true");
     
-} else {
-    console.log("false");
-}
+// } else {
+//     console.log("false");
+// }
+
+// 7-Masala;
+
+// let a = prompt("a sonini kiriting");
+// let b = prompt("b sonini kiriting");
+// let c = prompt("c sonini kiriting");
+
+// if (a > 0 && b > 0 && c > 0 ) {
+//     console.log("true");
+    
+// } else {
+//     console.log("false");
+// }
 
 
