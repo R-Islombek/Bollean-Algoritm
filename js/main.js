@@ -232,3 +232,13 @@
 //     alert("false")
 // }
 
+// 16-Masala;
+
+let n = +prompt("Sonni kiriting");
+
+if (n > 0 && n >= 10 && n <= 99 && n % 2 === 0) {
+  alert("true");
+} else {
+  alert("false");
+}
+
