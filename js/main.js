@@ -252,10 +252,34 @@
 //   alert("false");
 // }
 
-let n = +prompt("Sonni kiriting");
+// let n = +prompt("Sonni kiriting");
 
-if (n > 0 && n >= 10 && n <= 999 && n % 2 !== 0) {
-  alert("true");
+// if (n > 0 && n >= 10 && n <= 999 && n % 2 !== 0) {
+//   alert("true");
+// } else {
+//   alert("false");
+// }
+
+// 18-Masala;
+
+// let a = +prompt("a sonini kiriting");
+// let b = +prompt("b sonini kiriting");
+// let c = +prompt("c sonini kiriting");
+
+// if (a === -b || a === -c || b === -c) {
+//   alert("true");
+// } else {
+//   alert("false");
+// }
+
+// 19-Masala;
+
+let a = prompt("a sonini kiriting");
+let b = prompt("b sonini kiriting");
+let c = prompt("c sonini kiriting");
+
+if (  (a < b && b < c && a < c) || (a < c && c < b && a < b) || (b < a && b < c && c < a)  ) {
+    alert("true")
 } else {
-  alert("false");
+    alert("false")
 }
