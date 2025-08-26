@@ -221,3 +221,14 @@
 // } else {
 //     alert("false")
 // }
+
+// 15-Masala;
+
+// let number = prompt("20 va 99 orasidagi son kiriting");
+
+// if (number % 2 === 0 ) {
+//     alert("true")
+// } else {
+//     alert("false")
+// }
+
