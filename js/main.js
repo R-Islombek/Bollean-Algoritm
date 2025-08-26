@@ -187,3 +187,10 @@
 // } else {
 //     alert("false")
 // }
+
+// 9-Masala
+
+// let x1 = 1, y1 = 1;
+// let x2 = 8, y2 = 8;
+
+// console.log( (x1 === x2) || (y1 === y2) || (Math.abs(x1 - x2) === Math.abs(y1 - y2)) );
