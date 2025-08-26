@@ -274,12 +274,24 @@
 
 // 19-Masala;
 
-let a = prompt("a sonini kiriting");
-let b = prompt("b sonini kiriting");
-let c = prompt("c sonini kiriting");
+// let a = prompt("a sonini kiriting");
+// let b = prompt("b sonini kiriting");
+// let c = prompt("c sonini kiriting");
 
-if (  (a < b && b < c && a < c) || (a < c && c < b && a < b) || (b < a && b < c && c < a)  ) {
-    alert("true")
-} else {
-    alert("false")
-}
+// if (  (a < b && b < c && a < c) || (a < c && c < b && a < b) || (b < a && b < c && c < a)  ) {
+//     alert("true")
+// } else {
+//     alert("false")
+// }
+
+// let n = prompt("Uch xonali sonni kiriting:");
+
+// let a = Math.floor(n / 100);      // yuzliklar
+// let b = Math.floor((n / 10) % 10); // o‘nliklar
+// let c = n % 10;                   // birliklar
+
+// if ((a < b && b < c) || (a > b && b > c)) {
+//   console.log("Rost");  // ketma-ket o‘suvchi yoki kamayuvchi
+// } else {
+//   console.log("Yolg'on"); // aks holda
+// }
