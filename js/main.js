@@ -244,9 +244,17 @@
 
 // 17-Masala;
 
+// let n = +prompt("Sonni kiriting");
+
+// if (n > 0 && n >= 10 && n <= 999 && n % 2 === 0) {
+//   alert("true");
+// } else {
+//   alert("false");
+// }
+
 let n = +prompt("Sonni kiriting");
 
-if (n > 0 && n >= 10 && n <= 999 && n % 2 === 0) {
+if (n > 0 && n >= 10 && n <= 999 && n % 2 !== 0) {
   alert("true");
 } else {
   alert("false");
